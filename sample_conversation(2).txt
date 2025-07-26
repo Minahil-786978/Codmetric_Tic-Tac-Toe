@@ -1,0 +1,33 @@
+                                      ~~ OUTPUT OF TIC-TAC-TOE GAME ~~
+
+Tic Tac Toe - GUI Version (User: O, Computer: X)
+
+--- Round 1 ---
+
+User clicks cell (0, 0) → 'O'
+Computer plays at cell (1, 1) → 'X'
+User clicks cell (0, 1) → 'O'
+Computer plays at cell (2, 2) → 'X'
+User clicks cell (0, 2) → 'O'
+
+Game Result: User wins!
+Message Box: "You win!"
+
+User selects "Yes" on "Play Again" prompt.
+
+--- Round 2 ---
+
+User clicks cell (1, 1) → 'O'
+Computer plays at cell (0, 0) → 'X'
+User clicks cell (2, 0) → 'O'
+Computer plays at cell (2, 2) → 'X'
+User clicks cell (0, 2) → 'O'
+Computer plays at cell (1, 0) → 'X'
+User clicks cell (1, 2) → 'O'
+Computer plays at cell (2, 1) → 'X'
+
+Game Result: It's a tie!
+Message Box: "It's a tie!"
+
+User selects "No" on "Play Again" prompt.
+Game window closes.
